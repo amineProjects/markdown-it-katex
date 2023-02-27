@@ -21,8 +21,8 @@
   ],
   "author": "waylonflinn@gmail.com",
   "license": "MIT",
-  "dependencies": {
-    "katex": "^0.6.0"
+  "peerDependencies": {
+    "katex": "^0.16.0"
   },
   "devDependencies": {
     "markdown-it": "^6.0.0",
